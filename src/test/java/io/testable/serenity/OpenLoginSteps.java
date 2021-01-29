@@ -2,7 +2,7 @@ package io.testable.serenity;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
 
-public class OpenHomeSteps extends ScenarioSteps {
+public class OpenLoginSteps extends ScenarioSteps {
 
     /**
      *
